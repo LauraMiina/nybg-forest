@@ -5,18 +5,12 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  flex-wrap: nowrap;
 }
 
 .single-graphic {
   text-align: center;
   display: flex;
   flex-direction: column;
-  flex-basis: 30%;
-}
-
-.single-graphic img {
-  min-width: 400px;
 }
 
 .large-graphic-container {
