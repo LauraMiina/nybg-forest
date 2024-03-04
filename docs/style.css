@@ -1,7 +1,7 @@
 
 .graphics-container {
-  max-width: 1400px;
-  margin: 0;
+  max-width: 900px;
+  margin: auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -11,6 +11,7 @@
   text-align: center;
   display: flex;
   flex-direction: column;
+  justify-content: space-evenly;
 }
 
 .large-graphic-container {
@@ -108,7 +109,7 @@ body {
     
     .hero .title {
       font-family: "Inter", sans-serif;
-      color: #3c1f05;
+      color: black;
       font-weight: 600;
       margin-bottom: 15px;
       text-transform: uppercase;
@@ -119,7 +120,7 @@ body {
     
     .hero .subtitle {
       font-family: 'Inter', sans-serif;
-      color: #3c1f05;
+      color: black;
       font-size: 1em;
       letter-spacing: .05em;
       text-align: center;
