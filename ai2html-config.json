@@ -1,0 +1,16 @@
+{
+    "fonts": [
+        {
+            "aifont": "MyriadConceptRoman-Bold",
+            "family": "Myriad Variable Concept",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "MyriadConceptRoman-Regular",
+            "family": "Myriad Variable Concept",
+            "weight": "400",
+            "style": ""
+        }
+    ]
+}
