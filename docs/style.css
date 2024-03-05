@@ -112,7 +112,7 @@ body {
     
     .hero .title {
       font-family: "Inter", sans-serif;
-      color: black;
+      color: #4A7D89;
       font-weight: 600;
       margin-bottom: 15px;
       text-transform: uppercase;
@@ -123,7 +123,7 @@ body {
     
     .hero .subtitle {
       font-family: 'Inter', sans-serif;
-      color: black;
+      color: #4A7D89;
       font-size: 1em;
       letter-spacing: .05em;
       text-align: center;
@@ -191,7 +191,7 @@ body {
       font-family: "Inter", sans-serif;
       font-size: 11px;
       color: darkgrey; 
-      text-align: justify;
+      text-align: center;
       margin-top: 5px;
   }
   
